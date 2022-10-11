@@ -5,3 +5,10 @@ y = math.floor(1.4)
 
 print(x) # returns 2
 print(y) # returns 1
+
+
+p = math.ceil(1.4)
+q = math.floor(1.4)
+
+print(p) # returns 2
+print(q) # returns 1
